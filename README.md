@@ -67,7 +67,7 @@
 |-----------|--------------|-----------------|
 | 🔢 **Calculadora Legal** | Uma calculadora que faz contas e ainda dá mensagens motivacionais! | HTML, CSS, JS |
 | 🌟 **Meu Portfólio** | Site pessoal mostrando meus primeiros projetos | HTML, CSS |
-| 🎮 **Jogo da Velha** | O clássico jogo da velha com cores e efeitos especiais | HTML, CSS, JS |
+| 🎮 **Jogo de Parkour** | Um jogo de parkour simples mas dificil | HTML, CSS, JS |
 | 🧩 **Blocos Criativos** | Projetos divertidos feitos no Scratch | Scratch |
 
 > 💭 *"Em breve todos esses projetos estarão aqui com links para você testar!"*
@@ -81,7 +81,6 @@
 - [ ] ⚡ Dominar JavaScript (estou no caminho!)
 - [ ] 🖥️ Criar um jogo completo com JS
 - [ ] 🌐 Publicar meu primeiro site na internet
-- [ ] 🤝 Participar de uma comunidade de programação jovem
 
 ---
 
@@ -108,7 +107,6 @@
   | 🐙 **GitHub** | Guardar e mostrar meus projetos |
   | 🧩 **Scratch** | Aprender lógica de programação |
   | 🌐 **MDN Web Docs** | Consultar dúvidas sobre HTML/CSS/JS |
-  | 📚 **Khan Academy** | Estudar programação gratuitamente |
 
 </div>
 
@@ -121,12 +119,7 @@
   <a href="mailto:dhaniel.rabelo@escola.pr.gov.br" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
+
   
   <br><br>
   
