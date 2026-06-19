@@ -41,11 +41,11 @@
   <table>
     <tr>
       <td>📘 HTML</td>
-      <td><progress value="30" max="100"></progress> 70%</td>
+      <td><progress value="30" max="100"></progress> 30%</td>
     </tr>
     <tr>
       <td>📗 CSS</td>
-      <td><progress value="30" max="100"></progress> 60%</td>
+      <td><progress value="30" max="100"></progress> 30%</td>
     </tr>
     <tr>
       <td>📕 JavaScript</td>
